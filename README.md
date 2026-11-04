@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Proyecto individual EDA para el Curso de Data Science - The Bridge y Fundación Universia (2026-09). En este proyecto hemos realizado un análisis exploratorio de datos(EDA).
+Proyecto individual EDA para el Curso de Data Science - The Bridge y Fundación Universia (2026-09). En este proyecto hemos realizado un análisis exploratorio de datos (EDA).
 
 ## Contexto
 
@@ -32,13 +32,12 @@ Como fuente de datos se ha utilizado **PokéAPI** (https://pokeapi.co/), una API
 
 ## Tecnologías y Prerrequisitos
 
-- **Lenguaje:** Python
-Este análisis está desarrollado en **Python 3.12.10**. Los notebooks y scripts utilizan varias librerías integradas en la biblioteca estándar de Python, por lo que **no requieren instalación adicional**:
+- **Lenguaje:** Python. Este análisis está desarrollado en **Python 3.12.10**. Los notebooks y scripts utilizan varias librerías integradas en la biblioteca estándar de Python, por lo que **no requieren instalación adicional**:
    * `time`
    * `itertools`
 
 - **Librerías Externas:** 
-Para que el análisis funcione correctamente, es necesario instalar las siguientes librerías de terceros (se incluye un archivo requirements.txt indicando las versiones de las librerias):
+Para que el análisis funcione correctamente, es necesario instalar las siguientes librerías de terceros (se incluye un archivo requirements.txt indicando las versiones de las librerías):
    * `numpy`
    * `pandas`
    * `matplotlib`
