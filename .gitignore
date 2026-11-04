@@ -1,7 +1,10 @@
 # Indicamos que ignore carpetas data y results
+src/data/
 data/
+src/results/
 results/
 # Byte-compiled / optimized / DLL files
+src/__pycache__/
 __pycache__/
 *.py[codz]
 *$py.class
